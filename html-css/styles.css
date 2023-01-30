@@ -1,0 +1,29 @@
+.container-principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+.container{
+    text-align: center;
+}
+.itens{
+    font-style: italic;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+
+}
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+}
+.titulo-principal{
+ margin-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+p em strong {
+    color: red;
+}
